@@ -51,3 +51,22 @@
 ## Features
 
 - Access protected pages only accessible to logged in users
+
+## Screenshots
+
+<div align="center">
+  <h3 style="margin-top: 50px; font-size: 35px">Home</h3>
+  <img src="screenshots/home.JPG" />
+
+  <h3 style="margin-top: 100px; font-size: 35px"">Register</h3>
+  <img src="screenshots/register.JPG" />
+
+  <h3 style="margin-top: 100px; font-size: 35px"">Register validate</h3>
+  <img src="screenshots/register-validate.JPG" />
+
+  <h3 style="margin-top: 100px; font-size: 35px"">Login</h3>
+  <img src="screenshots/login.JPG" />
+
+  <h3 style="margin-top: 100px; font-size: 35px"">Login validate</h3>
+  <img src="screenshots/login-validate.JPG" />
+</div>
