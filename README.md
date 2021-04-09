@@ -52,7 +52,7 @@
 
 - Access protected pages only accessible to logged in users
 
-## Screenshots
+## <a name="screenshots">Screenshots</a>
 
 <div align="center">
   <h3 style="margin-top: 50px; font-size: 35px">Home</h3>
